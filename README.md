@@ -2,6 +2,10 @@
 
 A place to organize and share teaching resources that support AI literacy in statistics and data science education.
 
+## Try a sample lesson
+
+**Checking AI statistical claims** is a 45-minute introductory activity using synthetic data. It includes a [teacher lesson and answer guide](04_Lesson_Plans/Checking_AI_Statistical_Claims.md), a [student activity](05_Classroom_Activities/Checking_AI_Statistical_Claims_Activity.md), and a [12-point assessment rubric](06_Assessments_and_Rubrics/Checking_AI_Statistical_Claims_Rubric.md). No AI account is required. These materials are drafts for instructor review.
+
 ## Resource folders
 
 | Folder | What to post |
@@ -26,4 +30,4 @@ A place to organize and share teaching resources that support AI literacy in sta
 
 Keep student-identifying information and private classroom data out of shared resources. Label the permitted reuse of each resource and obtain permission before sharing third-party materials. No repository-wide reuse license has been selected yet.
 
-The folder README files preserve the structure in Git and explain what belongs in each section. This initial scaffold does not yet contain completed teaching materials.
+The folder README files preserve the structure in Git and explain what belongs in each section. The sample lesson demonstrates how related teacher, student, and assessment materials can be linked across folders.
